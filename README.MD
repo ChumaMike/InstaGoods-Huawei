@@ -1,5 +1,5 @@
 # 🛒 InstaGoods
-1
+
 **A modern multi-vendor marketplace platform for groceries, products, services, and freelancing.**
 
 InstaGoods is a comprehensive e-commerce solution that connects suppliers with customers, enabling businesses to sell physical products, offer services, and manage their operations efficiently. Built with modern web technologies and designed to be fully responsive across all devices.
